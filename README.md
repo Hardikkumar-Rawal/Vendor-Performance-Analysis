@@ -4,7 +4,7 @@
 ## 1. Project Overview
 
 This project brings vendor purchasing, sales, and freight information together to analyze vendor and product performance. The workflow uses SQL Server (SSMS) to prepare and combine the data, Python (Jupyter Notebook) for data cleaning and exploratory analysis, and Power BI to present business metrics in an interactive dashboard.
-The supplied cleaned dataset contains 10,692 rows and 18 columns. It includes vendor and brand identifiers, product descriptions, freight costs, purchase and sales measures, and derived performance metrics.
+The supplied cleaned dataset contains 10,692 rows and 18 columns from **million of records**. It includes vendor and brand identifiers, product descriptions, freight costs, purchase and sales measures, and derived performance metrics.
 
 
 ## 2. Business Questions
