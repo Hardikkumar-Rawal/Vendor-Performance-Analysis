@@ -70,6 +70,8 @@ vendors.
 - Database Connectivity: Connecting Python to SQL Server using SQLAlchemy and pyodbc
 
 - Power BI: Interactive dashboards, KPI cards, and data visualization
+
+- Handled million of records and converted into meaningful dataset.
 ## 6. Conclusion
 This project demonstrates an end-to-end analytics workflow: consolidating data in SQL Server, cleaning and engineering features in Python, and communicating vendor and product performance through Power BI. The cleaned CSV and notebook provide the data-preparation workflow, while the Power BI file provides the dashboard layer for exploring the resulting metrics.
 
